@@ -1,0 +1,19 @@
+{
+    "id": "29b29dd9e39705674ea07abadf0b3c33",
+    "metadata": {
+        "fullname": "xrandr-2023W-GPU54IA005122",
+        "name": "DVI-0"
+    },
+    "mode": {
+        "refresh": 60,
+        "size": {
+            "height": 900,
+            "width": 1600
+        }
+    },
+    "overscan": 0,
+    "rgbrange": 0,
+    "rotation": 1,
+    "scale": 1,
+    "vrrpolicy": 2
+}

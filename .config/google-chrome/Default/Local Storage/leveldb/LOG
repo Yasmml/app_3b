@@ -1,0 +1,6 @@
+2025/02/18-15:18:41.610 4 Reusing MANIFEST /home/202312130038@ifto.local/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2025/02/18-15:18:41.617 4 Recovering log #3
+2025/02/18-15:18:41.617 4 Reusing old log /home/202312130038@ifto.local/.config/google-chrome/Default/Local Storage/leveldb/000003.log 
+2025/02/18-15:27:24.259 5 Level-0 table #5: started
+2025/02/18-15:27:24.771 5 Level-0 table #5: 29590 bytes OK
+2025/02/18-15:27:24.775 5 Delete type=0 #3

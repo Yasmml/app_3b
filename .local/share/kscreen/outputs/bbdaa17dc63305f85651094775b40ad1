@@ -1,0 +1,19 @@
+{
+    "id": "bbdaa17dc63305f85651094775b40ad1",
+    "metadata": {
+        "fullname": "xrandr-LG Electronics-WX942-16843009",
+        "name": "DVI-0"
+    },
+    "mode": {
+        "refresh": 59.88744354248047,
+        "size": {
+            "height": 900,
+            "width": 1440
+        }
+    },
+    "overscan": 0,
+    "rgbrange": 0,
+    "rotation": 1,
+    "scale": 1,
+    "vrrpolicy": 2
+}

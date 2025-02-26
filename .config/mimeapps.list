@@ -1,0 +1,23 @@
+[Default Applications]
+x-scheme-handler/http=userapp-Firefox-W62VW2.desktop
+x-scheme-handler/https=userapp-Firefox-W62VW2.desktop
+x-scheme-handler/chrome=userapp-Firefox-W62VW2.desktop
+text/html=google-chrome.desktop
+application/x-extension-htm=userapp-Firefox-W62VW2.desktop
+application/x-extension-html=userapp-Firefox-W62VW2.desktop
+application/x-extension-shtml=userapp-Firefox-W62VW2.desktop
+application/xhtml+xml=userapp-Firefox-W62VW2.desktop
+application/x-extension-xhtml=userapp-Firefox-W62VW2.desktop
+application/x-extension-xht=userapp-Firefox-W62VW2.desktop
+
+[Added Associations]
+x-scheme-handler/http=userapp-Firefox-W62VW2.desktop;
+x-scheme-handler/https=userapp-Firefox-W62VW2.desktop;
+x-scheme-handler/chrome=userapp-Firefox-W62VW2.desktop;
+text/html=userapp-Firefox-W62VW2.desktop;
+application/x-extension-htm=userapp-Firefox-W62VW2.desktop;
+application/x-extension-html=userapp-Firefox-W62VW2.desktop;
+application/x-extension-shtml=userapp-Firefox-W62VW2.desktop;
+application/xhtml+xml=userapp-Firefox-W62VW2.desktop;
+application/x-extension-xhtml=userapp-Firefox-W62VW2.desktop;
+application/x-extension-xht=userapp-Firefox-W62VW2.desktop;
