@@ -1,0 +1,123 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Fontes elegantes (importando da Google Fonts) */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&family=Montserrat:wght@300;400;500&display=swap');
+
+/* Corpo da página */
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #f7f7f7; /* Fundo claro para contrastar com os elementos */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    color: #333; /* Texto escuro para boa legibilidade */
+}
+
+/* Container principal */
+.container {
+    width: 100%;
+    max-width: 480px;
+    background-color: #fff;
+    padding: 40px;
+    border-radius: 12px;
+    box-shadow: 0 6px 16px rgba(0, 0, 0, 0.1);
+}
+
+/* Estilo das abas */
+.tab {
+    display: none;
+}
+
+.tab.active {
+    display: block;
+}
+
+/* Título */
+h2 {
+    font-size: 30px;
+    margin-bottom: 20px;
+    color: #5e2a84; /* Roxo escuro */
+    font-weight: 600;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
+
+/* Formulário */
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+/* Campos de entrada */
+input[type="text"], input[type="password"], input[type="email"], input[type="tel"] {
+    padding: 14px;
+    margin: 12px 0;
+    border: 2px solid #c1a7d4; /* Roxo mais claro para as bordas */
+    border-radius: 8px;
+    font-size: 16px;
+    outline: none;
+    transition: border-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+input[type="text"]:focus, input[type="password"]:focus, input[type="email"]:focus, input[type="tel"]:focus {
+    border-color: #6f42c1; /* Roxo ao focar */
+    box-shadow: 0 0 5px rgba(111, 66, 193, 0.5); /* Roxo suave ao focar */
+}
+
+/* Botões */
+button {
+    padding: 16px;
+    background-color: #6f42c1; /* Roxo intenso */
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    font-size: 18px;
+    cursor: pointer;
+    font-weight: 500;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+button:hover {
+    background-color: #5e2a84; /* Roxo mais escuro ao passar o mouse */
+    transform: translateY(-2px); /* Efeito de elevação */
+}
+
+/* Links para ações extras */
+.link {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.link a {
+    color: #6f42c1; /* Roxo */
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: 500;
+    transition: color 0.3s ease;
+}
+
+.link a:hover {
+    color: #5e2a84; /* Roxo mais escuro ao passar o mouse */
+}
+
+/* Estilos para o conteúdo das abas de login e outras */
+#login-tab, #recover-tab, #reset-password-tab, #create-account-tab {
+    display: none;
+}
+
+/* Estilo da aba ativa */
+#login-tab.active, #recover-tab.active, #reset-password-tab.active, #create-account-tab.active {
+    display: block;
+}
+
+/* Estilos de fundo para as abas */
+#login-tab, #recover-tab, #reset-password-tab, #create-account-tab {
+    background-color: #f9f6ff; /* Fundo suave e claro com um tom de roxo */
+    padding: 30px;
+    border-radius: 12px;
+}
