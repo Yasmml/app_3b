@@ -1,7 +1,8 @@
 
 # PROJETO AYCA
 
-![Logo](file:///home/202312130038@ifto.local/Downloads/WhatsApp%20Image%202025-04-10%20at%2009.32.54.jpeg)
+![Logo](![image](https://github.com/user-attachments/assets/5c5ced87-409c-4a9f-9c76-8c821dbdb2cb)
+)
 
 Este projeto é um sistema web de gestão para escritórios contábeis, desenvolvido com o objetivo de centralizar e organizar as áreas **fiscal**, **financeira** e **contábil** em um único ambiente digital.
 ## Sobre Stack
