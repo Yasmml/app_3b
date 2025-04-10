@@ -2,7 +2,6 @@
 # PROJETO AYCA
 
 ![Logo](logo.png)
-)
 
 Este projeto é um sistema web de gestão para escritórios contábeis, desenvolvido com o objetivo de centralizar e organizar as áreas **fiscal**, **financeira** e **contábil** em um único ambiente digital.
 ## Sobre Stack
